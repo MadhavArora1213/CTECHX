@@ -1,0 +1,26 @@
+{
+  "name": "ctechx-student-growth",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "firebase": "^9.0.0",
+    "zustand": "^4.0.0",
+    "tailwindcss": "^4.1.0",
+    "gsap": "^3.0.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "eslint": "^8.0.0",
+    "eslint-plugin-react": "^7.0.0",
+    "prettier": "^2.0.0"
+  }
+}
